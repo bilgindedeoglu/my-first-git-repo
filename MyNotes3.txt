@@ -1,6 +1,2 @@
 This is my local file
-<<<<<<< HEAD
-Local Code
-=======
-Remote Code
->>>>>>> 008ebd1297cd0b8f17ea2b1fa117c76076c48168
+
